@@ -1,0 +1,26 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+body{
+    margin: 30px;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    position: absolute ;
+    top: 10%;
+    left: 57%;
+    width:500px;
+    height:550px;
+}
+
+audio,video{
+    margin: 30px 0px 0px 0px ;
+}
+
+h1{
+    letter-spacing: -1;
+}
